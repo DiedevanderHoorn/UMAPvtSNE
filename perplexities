@@ -1,0 +1,21 @@
+{
+    "bank": 14,
+    "cifar10": 12,
+    "cnae9": 10,
+    "coil20": 14,
+    "digits": 14,
+    "epileptic": 12,
+    "fashion_mnist": 14,
+    "fmd": 12,
+    "har": 12,
+    "hatespeech": 14,
+    "hiva": 10,
+    "imdb": 12,
+    "orl": 12,
+    "secom": 12,
+    "seismic": 16,
+    "sentiment": 10,
+    "sms": 22,
+    "spambase": 12,
+    "svhn": 14
+}
