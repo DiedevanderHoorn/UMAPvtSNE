@@ -1,4 +1,4 @@
-# Reviewer #2: ''Why didn't you use UMAP?``
+# Reviewer #2: "Why didn't you use UMAP?"
 Supplementary material for the extended abstract and corresponding poster, titled: Reviewer #2: ''Why didn't you use UMAP?'', authors: D.P.M. van der Hoorn, A. Arleo, F.V. Paulovich, to be presented at EuroVis 2025.
 
 ## Additional results
