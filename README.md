@@ -12,5 +12,5 @@ To find the projections for all combinations, consider the _figures best_ folder
 ## How to recreate the results
 The file called "perplexities" contains all the perplexities used for t-SNE to maximize faitfulness. 
 - To get the projections: main.py
-- To get metrics: metrics.py
+- To get metrics: get_metrics.py
 - To get the boxplots: boxplots.py
