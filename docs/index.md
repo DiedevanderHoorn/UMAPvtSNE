@@ -12,7 +12,7 @@ To find the projections for all combinations, consider the _figures best_ folder
 - The figures folders contain projections on all datasets in different configurations (combination of relationship/mapping phase).
 
 ## How to recreate the results
-The file called "perplexities" contains all the perplexities used for t-SNE to maximize faitfulness. 
+The file called "perplexities" contains all the perplexities used for t-SNE to maximize faithfulness. 
 - To get the projections: main.py
 - To get metrics: get_metrics.py
 - To get the boxplots: boxplots.py
